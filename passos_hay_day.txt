@@ -1,0 +1,47 @@
+cada ciclo dura 5 minutos (tempo de anunciar no jornal)
+
+fazer dois ciclos de:
+
+  etapa inicial: cortar o trigo
+    screenshot da tela
+    identificar trigos com o template
+    clicar no trigo mais alto
+    screenshot da tela
+    identificar seta da foice de cortar trigo
+    clicar na seta da foice e segurar
+    passar mouse para espaço em branco (evitar erros)
+    if aparece a notificação de silo cheio:
+      clique para sair
+      ir para etapa de plantio, var_bool=true para após etapa de plantio seguir para venda e esperar um anúncio (esse caso pode ocorrer no primeio ciclo)
+    com o botão apertado, passar o mouse em todo trigo que foi detectado
+  
+  pequeno delay
+
+  etapa intermediária: plantar o trigo
+    screenshot da tela
+    identificar tiles de plantio com o template
+    clicar no tile mais alto
+    screenshot da tela
+    identificar símbolo de plantar trigo
+    clicar e segurar no símbolo de plantar trigo
+    passar mouse para espaço em branco (evitar erros)
+    com o botão apertado, passar o mouse em todos os tiles que foram detectados
+
+pequeno delay
+
+etapa venda do trigo:
+  screenshot da tela
+  identificar cesto vermelho (loja da rua)
+  clicar no cesto vermelho
+  repetir enquanto houve "venda concluída na tela":
+    clicar em venda concluída
+  repetir enquanto houver "criar nova venda" na tela:
+    clicar em "criar nova venda
+    identificar trigo
+    clicar em trigo
+    se anúncio estiver disponível:
+      espere anúncio estar disponível
+      clique em anúncio
+    clicar em "colocar à venda"
+
+voltar para o começo
