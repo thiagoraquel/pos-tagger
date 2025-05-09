@@ -2,3 +2,43 @@
 /gerador de senhas
 /html&css
 /learning_git
+learning java/Game Simples/Game.class
+learning java/Game Simples/Main.class
+learning java/Game Simples/Player.class
+learning java/Game Simples/mygame/README.md
+learning java/Game Simples/mygame/.vscode/settings.json
+learning java/Game Simples/mygame/bin/Game.class
+learning java/Game Simples/mygame/bin/Main.class
+learning java/Game Simples/mygame/bin/Player.class
+learning java/Game Simples/mygame/src/Game.class
+learning java/Game Simples/mygame/src/Game.java
+learning java/Game Simples/mygame/src/Main.class
+learning java/Game Simples/mygame/src/Main.java
+learning java/Game Simples/mygame/src/Player.class
+learning java/Game Simples/mygame/src/Player.java
+learning java/Game Simples/src/Game.java
+learning java/Game Simples/src/Main.java
+learning java/Game Simples/src/Player.java
+learning java/simples/Alturas.class
+learning java/simples/Alturas.java
+learning java/simples/AnaliseDeValores.class
+learning java/simples/AnaliseDeValores.java
+learning java/simples/SomaImparesMultiplosDeTres.class
+learning java/simples/SomaImparesMultiplosDeTres.java
+red_ball/adc_red_ball.py
+red_ball/red_ball.py
+red_ball/screenshot_red_ball.png
+red_ball/screenshot.png
+red_ball/__pycache__/adc_red_ball.cpython-313.pyc
+red_ball/outputs/detected_circle.png
+red_ball/outputs/hsv_image.png
+red_ball/outputs/mask_applied.png
+red_ball/outputs/mask_combined.png
+red_ball/outputs/mask1.png
+red_ball/outputs/mask2.png
+red_ball/outputs/red_ball_crop.png
+sockets_exemplo/TCPClient.class
+sockets_exemplo/TCPClient.java
+sockets_exemplo/TCPServer.class
+sockets_exemplo/TCPServer.java
+sockets_exemplo/TratadorCliente.class

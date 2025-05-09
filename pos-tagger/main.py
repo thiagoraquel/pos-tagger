@@ -13,6 +13,9 @@ from src.evaluate import evaluate_accuracy, generate_confusion_matrix
 def main():
     parser = argparse.ArgumentParser(
         description="""
+        
+        Para objetivo de análise de código, basta olhar o tagger.py e evaluate.py
+
         Programa para treinar, usar e avaliar um tagger baseado em unigramas, bigramas ou trigramas.
 
         Modos de operação:
